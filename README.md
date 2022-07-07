@@ -1,4 +1,4 @@
-# Reading-Notes testing
+# Reading-Notes
 
 My learning journal for Code Fellows!
 
