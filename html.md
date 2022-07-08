@@ -19,3 +19,4 @@ initial process. Once the prototype is done you can move it to a software to hav
 
 Having a good flow to the website is critical. Whether its a marketing website or a learning website. You need to have a good flow for the user so they are not frustrated
 on why the information is jumbled all over the website. It makes it easier to digest information.
+testing
