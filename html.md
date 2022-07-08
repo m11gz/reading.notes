@@ -5,7 +5,7 @@ It holds everything together. CSS would be what makes the skeleton look aestheti
 
 - <p>What about second breakfast?</p>
 - <> These are called angle brackets.
-- <p> </p>
+- `<p> </p>`
 
 ## Wireframe?
 
