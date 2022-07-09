@@ -9,9 +9,9 @@ Check out my porfolio on Github
 
 [What is a Growth Mindset](https://m11gz.github.io/reading.notes/growthmindset.md)
 
-[What is Markdown?](https://m11gz.github.io/reading.notes/markdown.md)
+[What is Markdown?](https://m11gz.github.io/reading.notes/markdown)
 
-[The Coders Computer](https://m11gz.github.io/reading.notes/thecoderscomputer.md)
+[The Coders Computer](https://m11gz.github.io/reading.notes/thecoderscomputer)
 
 [Animales](https://m11gz.github.io/reading.notes/Animals%20Page/index.html#)
 
