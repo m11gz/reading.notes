@@ -7,7 +7,7 @@ I’m Miguel Rodriguez (he/him) and I live in Issaquah, WA. I have computer hard
 Check out my porfolio on Github
 @ https://github.com/m11gz
 
-[What is a Growth Mindset](https://m11gz.github.io/reading.notes/growthmindset.md)
+[What is a Growth Mindset](https://m11gz.github.io/reading.notes/growthmindset)
 
 [What is Markdown?](https://m11gz.github.io/reading.notes/markdown)
 
