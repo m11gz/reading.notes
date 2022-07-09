@@ -17,4 +17,4 @@ Check out my porfolio on Github
 
 [My Website](https://m11gz.github.io/reading.notes/class-05/index.html)
 
-[Javascript](https://m11gz.github.io/reading.notes/class-05/javascript.md)
+[Javascript](https://m11gz.github.io/reading.notes/class-05/javascript)
