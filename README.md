@@ -16,3 +16,7 @@ Check out my porfolio on Github
 [Animales](https://m11gz.github.io/reading.notes/Animals%20Page/index.html#)
 
 [My Website](https://m11gz.github.io/reading.notes/class-05/index.html)
+
+[Javascript](https://m11gz.github.io/reading.notes/javascript)
+
+[CSS](https://m11gz.github.io/reading.notes/css)
