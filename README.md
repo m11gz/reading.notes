@@ -20,3 +20,5 @@ Check out my porfolio on Github
 [Javascript](https://m11gz.github.io/reading.notes/javascript)
 
 [CSS](https://m11gz.github.io/reading.notes/css)
+
+[Functions](https://m11gz.github.io/reading.notes/functions)
